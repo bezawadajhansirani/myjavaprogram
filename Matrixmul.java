@@ -7,7 +7,7 @@ public class Matrixmul {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter no:of row elements"); 
+		System.out.println("r no:of row elements"); 
 		int r1=sc.nextInt();
 		System.out.println("Enter no:of column elements"); 
 		int c1=sc.nextInt();
